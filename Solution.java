@@ -32,8 +32,8 @@ import java.io.BufferedReader;
 	public static void main(String[] args) throws Exception {
 
 			/*
-				In future add a parameter to accept default city from commandline
-				For now hardcode the default city as Chicago.
+			In future add a parameter to accept default city from commandline
+			For now hardcode the default city as Chicago.
 			*/
 			//Set the default/vertex city to run the report against
 			Solution solution = new Solution();
