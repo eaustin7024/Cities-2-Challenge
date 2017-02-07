@@ -35,6 +35,11 @@ Example Input:
 27|Chicago|Illinois|I-94;I-90;I-88;I-57;I-55
 10|San Jose|California|I-5;I-80
 
-Any line that start wtih # must be skipped
+Any line that starts wtih # must be skipped
 
-Your must write your
+You must write your source code in Solution.java with this definition
+public class Solution { 
+  public static void main(String[] args) throws Exception {
+    //write your code in here
+  }
+ }
